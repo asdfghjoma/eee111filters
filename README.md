@@ -1,5 +1,9 @@
 # eee111filters
-Snapchat-like Filters
+Hardware Project: Face Filters
+by:
+JOMARI GANHINHIN
+2018-03929 THQR2
+
 
 Creates filters over the frame and face using face_recognition module
 
